@@ -2,7 +2,7 @@
 <cronentries>
     <cron>
       <url>/cron/tweet</url>
-      <schedule>every 72 minutes</schedule>
+      <schedule>every 3 minutes</schedule>
        <timezone>Asia/Tokyo</timezone>
  </cron>
 </cronentries>
